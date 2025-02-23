@@ -50,7 +50,7 @@ export default function HomePage() {
         transition={{ duration: 0.8 }}
       >
         <Button className="bg-white text-red-600 text-xl font-bold py-3 px-6 rounded-xl shadow-lg hover:bg-gray-200">
-          Explore More!
+          Explore Mor!
         </Button>
       </motion.div>
     </div>
